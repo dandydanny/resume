@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Daniel W. Lu",
+    "label": "Full Stack Web Developer",
+    "picture": "",
+    "email": "dandydanny@gmail.com",
+    "phone": "(323) 284-6422",
+    "website": "https://dandydanny.org",
+    "summary": "Daniel is an multi-talented engineer who specializes in web-software, electronic hardware, and holds interests in music creation & production.",
+    "location": {
+      "address": "PO Box 3464",
+      "postalCode": "CA 91031",
+      "city": "South Pasadena",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "dandydannyx",
+        "url": "https://twitter.com/dandydanny"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/dannyisdandy/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Independent",
+      "position": "Software Engineer",
+      "website": "https://dandydanny.org",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "Independent software development projects, Interest-based, self-motivated learning and experimentations. Software, hardware, and music.",
+      "highlights": [
+        "Deployed website onto AWS with full https security, utilizing S3, CloudFront, and Route 53",
+        "Recipient of Udacity Grow-with-Google front-end development scholarship",
+        "Attended Google I/O 2017 and 2018 conferences"
+      ]
+    },
+    {
+      "company": "Ace Metrix",
+      "position": "QA Automation Engineer",
+      "website": "https://www.acemetrix.com",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Figuring out my way around a sophisticated, large-scale customer-facing SaaS application, run into bugs and dissect them (so our customers don't have to). Implemented customized browser-side and server-side testing automation.",
+      "highlights": [
+        "Developed custom REST test client",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "Freelance Web Developer",
+      "website": "https://dandydanny.org/web-design/",
+      "startDate": "2000",
+      "endDate": "2013",
+      "summary": "Provides initial consultation, design, deployment, and maintenance of media-rich web sites",
+      "highlights": []
+    },
+    {
+      "company": "Starbase Net Computer",
+      "position": "Lead Technician",
+      "website": "",
+      "startDate": "1999",
+      "endDate": "2013",
+      "summary": "Provides on-location and remote computer support, system hardware & software troubleshooting and repair, malware removal, networking and equipment deployment. Designed test procedure to duplicate client-side issues, and documented the issue with cause, symptom, and solution. Perform training and knowledge transfer for new employees.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Santa Monica College",
+      "area": "Mathmatics",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Pasadena City College",
+      "area": "Computer & Electrical Engineering",
+      "studyType": "",
+      "startDate": "2001",
+      "endDate": "2013",
+      "gpa": "",
+      "courses": [
+        "Participant of the PCC MathPath program"
+      ]
+    },
+    {
+      "institution": "Dev Bootcamp",
+      "area": "Web Development Apprenticeship",
+      "studyType": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "GIT"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Digital Signal Processing",
+      "keywords": [
+        "Software-defined radio (SDR)",
+        "Amateur radio",
+        "Audio synthesis"
+      ]
+    }
+  ],
+  "references": []
+}
